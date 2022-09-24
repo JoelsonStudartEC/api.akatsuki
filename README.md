@@ -1,2 +1,2 @@
 # api.akatsuki
-api para capiturar as bijuus
+api para capturar as bijuus
